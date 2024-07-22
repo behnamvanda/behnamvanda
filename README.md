@@ -23,7 +23,7 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
     <a href="https://x.com/behnamvanda" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
-    <a href="mailto:behnamvanda@protonmail.com" target="_blank">
+    <a href="mailto:abasi.vanda@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://tryhackme.com/p/Chocapik" target="_blank">
