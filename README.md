@@ -66,8 +66,8 @@ Below is a list of tools I've developed, which are designed to assist in various
 
 | Tool Name | Description | Link |
 |-----------|-------------|------|
-| **LFIHunt** | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities. | [GitHub](https://github.com/Chocapikk/LFIHunt) |
-| **LeakPy** | Python-based tool to query LeakIX.net's API. | [GitHub](https://github.com/Chocapikk/LeakPy) |
+| **SubScan** | Sub domain scanner . | [GitHub](https://github.com/behnamvanda/subscan) |
+| **RCEScan** | Remote Code Execution Scanner. | [GitHub](https://github.com/behnamvanda/rce-scan) |
 
 ### 🏆 Hall Of Fame
 
