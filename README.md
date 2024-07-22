@@ -20,7 +20,7 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
     <a href="https://www.instagram.com/behnam-abbasi-vanda/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://www.twitter.com/behnam-abbasi-vanda" target="_blank">
+    <a href="https://x.com/behnamvanda" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
     <a href="mailto:behnamvanda@protonmail.com" target="_blank">
