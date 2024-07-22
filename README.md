@@ -40,7 +40,7 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
 ## 🧰 Skills & Languages
 
 - **Primary Language**
-  - ![Bash](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  - ![Bash](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/50px-Bash_Logo_Colored.svg.png?20180723054350)
 
 - **Secondary Languages**  
   - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
