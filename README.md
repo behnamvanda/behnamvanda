@@ -114,3 +114,18 @@ In addition to CVE contributions, I've been actively involved in exploit develop
 
 </br>
 
+## 🤓 Stats for nerds 📊
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=i love shells <3 :~%23" alt="Introduction">
+</p>
+
+<p align="center">
+  <strong>Views</strong>
+  <br>
+  <img src="https://profile-counter.glitch.me/behnamvanda/count.svg" alt="Visitors">
+</p>
+
+<p align="center">
+  <img src="https://myreadme.vercel.app/api/embed/behnamvanda?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
+</p>
