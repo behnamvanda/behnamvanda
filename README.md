@@ -75,7 +75,7 @@ Here is a list of Hall of Fame acknowledgments recognizing my contributions to c
 
 | Company | Hall of Fame | Year |
 |---------|--------------|------|
-| ![Oracle](https://img.shields.io/badge/-Ferrari-red?style=plastic&logo=ferrari&logoColor=white) | [SOracle On-Line Presence  Security Contributors list](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) | 2024 |
+| ![Oracle](https://img.shields.io/badge/-Ferrari-red?style=plastic&logo=ferrari&logoColor=white) | [Oracle On-Line Presence  Security Contributors list](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) | 2024 |
 | ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2024 |
 | ![Sonicwall](https://img.shields.io/badge/-Philips-blue?style=plastic&logo=philips&logoColor=white) | [Sonicwall Hall of Honors](https://psirt.global.sonicwall.com/hall-of-fame) | 2024 |
 
@@ -88,7 +88,6 @@ I have contributed to identifying and documenting several vulnerabilities. Here'
 | 🔒 **Prestige Software CMS** | Local File Disclosure | [Packet Storm](https://packetstormsecurity.com/files/122118/Prestige-Software-CMS-File-Disclosure.html) |
 | 🔒 **Wordpress Plugin** | Wordpress Gallery 3.8.3 Arbitrary File Read |  [Packet Storm](https://packetstormsecurity.com/files/119458/WordPress-Gallery-3.8.3-Arbitrary-File-Read.html) |
 | 🔒 **Wordpress Plugin** | WordPress Traffic Analyzer Cross Site Scripting |  [Packet Storm](https://packetstormsecurity.com/files/121167/WordPress-Traffic-Analyzer-Cross-Site-Scripting.html) |
-| 🔒 **Prestige Software CMS** | Local File Disclosure | [Packet Storm](https://packetstormsecurity.com/files/122118/Prestige-Software-CMS-File-Disclosure.html) |
 
 
 
@@ -102,7 +101,6 @@ In addition to CVE contributions, I've been actively involved in exploit develop
 | Vulnerability | Description | Link |
 |---------------|-------------|------|
 | 🔒 Sophos Web Appliance 4.3.10.4 Pre-auth command injection Vulnerability | Developed a exploit. | [Exploit-db](https://www.exploit-db.com/exploits/51396) |
-| 🔒 Vinchin Backup And Recovery Command Injection (CVE-2023-45498, CVE-2023-45499) | Created a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176289/Vinchin-Backup-And-Recovery-Command-Injection.html) |
 
 </br>
 
