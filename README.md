@@ -29,7 +29,7 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
     <a href="https://tryhackme.com/p/behnamvanda" target="_blank">
         <img src="https://img.shields.io/badge/TryHackMe-%230b0557.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
     </a>
-    <a href="https://root-me.org/behnam_vanda" target="_blank">
+    <a href="https://root-me.org/Behnam_Vanda" target="_blank">
         <img src="https://img.shields.io/badge/RootMe-%2313ad05.svg?&style=for-the-badge&logo=rootme&logoColor=white" alt="RootMe" />
     </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
