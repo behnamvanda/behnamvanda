@@ -117,7 +117,7 @@ In addition to CVE contributions, I've been actively involved in exploit develop
 ## 🤓 Stats for nerds 📊
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=i love shells <3 :~%23" alt="Introduction">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&duration=2000&color=00FF00&center=true&vCenter=true&lines=i%20love%20shells%20:~%23" alt="Introduction">
 </p>
 
 <p align="center">
