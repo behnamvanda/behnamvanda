@@ -3,7 +3,7 @@
 ![](./github-header-image.png)
 
 
-Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have a strong passion for ethical hacking, vulnerability research, and software development. I enjoy sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
+Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have a strong passion for ethical hacking, vulnerability research, and penetration testing. I enjoy sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
 
 <a href="https://github.com/behnamvanda" target="_blank">
     <img src="https://img.shields.io/github/followers/behnamvanda?style=social" alt="GitHub followers" />
@@ -43,4 +43,5 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
   - ![Bash](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - **Secondary Languages**  
-  - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+  - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+ ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
