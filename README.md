@@ -1,6 +1,6 @@
 # Behnam Abbasi Vanda: Security Enthusiast 👨‍💻🔐
 
-![](./github-header-image.png)
+![](./behnamvanda-header.png)
 
 
 Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have a strong passion for ethical hacking, vulnerability research, and penetration testing. I enjoy sharing my knowledge and contributing to the cybersecurity community through my GitHub repositories. 🌐💡
