@@ -75,9 +75,9 @@ Here is a list of Hall of Fame acknowledgments recognizing my contributions to c
 
 | Company | Hall of Fame | Year |
 |---------|--------------|------|
-| ![Oracle](https://img.shields.io/badge/-Ferrari-red?style=plastic&logo=ferrari&logoColor=white) | [Oracle On-Line Presence  Security Contributors list](https://www.oracle.com/security-alerts/cpujul2024.html) | 2024 |
+| ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) | [Oracle On-Line Presence  Security Contributors list](https://www.oracle.com/security-alerts/cpujul2024.html) | 2024 |
 | ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2024 |
-| ![Sonicwall](https://img.shields.io/badge/-Philips-blue?style=plastic&logo=philips&logoColor=white) | [Sonicwall Hall of Honors](https://psirt.global.sonicwall.com/hall-of-fame) | 2024 |
+| ![Sonicwall](https://img.shields.io/badge/-SonicWall-FF791A?style=flat&logo=sonicwall&logoColor=white) | [Sonicwall Hall of Honors](https://psirt.global.sonicwall.com/hall-of-fame) | 2024 |
 
 ### 🚨 Vulnerability Discovery & Report
 
