@@ -59,3 +59,60 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
 ## 📚 Repositories
 
 In this GitHub account, you'll find a variety of cybersecurity projects. Feel free to explore, and learn! 🎮🔍
+
+### 📁 Tools
+
+Below is a list of tools I've developed, which are designed to assist in various cybersecurity tasks:
+
+| Tool Name | Description | Link |
+|-----------|-------------|------|
+| **LFIHunt** | Advanced Tool To Scan And Exploit Local File Inclusion (LFI) Vulnerabilities. | [GitHub](https://github.com/Chocapikk/LFIHunt) |
+| **LeakPy** | Python-based tool to query LeakIX.net's API. | [GitHub](https://github.com/Chocapikk/LeakPy) |
+
+### 🏆 Hall Of Fame
+
+Here is a list of Hall of Fame acknowledgments recognizing my contributions to cybersecurity:
+
+| Company | Hall of Fame | Year |
+|---------|--------------|------|
+| ![Oracle](https://img.shields.io/badge/-Ferrari-red?style=plastic&logo=ferrari&logoColor=white) | [SOracle On-Line Presence  Security Contributors list](https://www.ferrari.com/fr-FR/hall-of-fame-responsible-disclosure-programme) | 2024 |
+| ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2024 |
+| ![Sonicwall](https://img.shields.io/badge/-Philips-blue?style=plastic&logo=philips&logoColor=white) | [Sonicwall Hall of Honors](https://psirt.global.sonicwall.com/hall-of-fame) | 2024 |
+
+### 🚨 Vulnerability Discovery & Report
+
+I have contributed to identifying and documenting several vulnerabilities. Here's a list of Vuls I've founded:
+
+| Product | Vulnerability Name | Link |
+|--------|-------------|------|
+| 🔒 **Prestige Software CMS** | Local File Disclosure | [Packet Storm](https://packetstormsecurity.com/files/122118/Prestige-Software-CMS-File-Disclosure.html) |
+| 🔒 **Wordpress Plugin** | Wordpress Gallery 3.8.3 Arbitrary File Read |  [Packet Storm](https://packetstormsecurity.com/files/119458/WordPress-Gallery-3.8.3-Arbitrary-File-Read.html) |
+| 🔒 **Wordpress Plugin** | WordPress Traffic Analyzer Cross Site Scripting |  [Packet Storm](https://packetstormsecurity.com/files/121167/WordPress-Traffic-Analyzer-Cross-Site-Scripting.html) |
+| 🔒 **Prestige Software CMS** | Local File Disclosure | [Packet Storm](https://packetstormsecurity.com/files/122118/Prestige-Software-CMS-File-Disclosure.html) |
+
+
+
+
+#### Additionally, I contributing to the discovery and responsible disclosure of vulnerabilities
+
+### 🚨 Exploit Development & PoC Contributions
+
+In addition to CVE contributions, I've been actively involved in exploit development and proof-of-concept (PoC) creation for various vulnerabilities. These efforts are aimed at demonstrating potential security risks and providing the cybersecurity community with tools for testing and mitigation.
+
+| Vulnerability | Description | Link |
+|---------------|-------------|------|
+| 🔒 Sophos Web Appliance 4.3.10.4 Pre-auth command injection Vulnerability | Developed a exploit. | [Exploit-db](https://www.exploit-db.com/exploits/51396) |
+| 🔒 Vinchin Backup And Recovery Command Injection (CVE-2023-45498, CVE-2023-45499) | Created a Metasploit module. | [Packet Storm](https://packetstormsecurity.com/files/176289/Vinchin-Backup-And-Recovery-Command-Injection.html) |
+
+</br>
+
+> [!CAUTION]
+> ⚠️ Disclaimer
+> Please use the information and exploits provided in my repositories for educational purposes and responsible disclosure only. I am not responsible for any misuse or damage caused by using these tools, scripts, or exploits.
+
+</br>
+
+---
+
+</br>
+
