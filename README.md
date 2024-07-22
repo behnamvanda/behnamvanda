@@ -1,4 +1,4 @@
-# Behnam Abbasi Vanda: Cyber security & Information security Enthusiast 👨‍💻🔐
+# Behnam Abbasi Vanda: Security Enthusiast 👨‍💻🔐
 
 ![](./github-header-image.png)
 
