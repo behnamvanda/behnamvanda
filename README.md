@@ -96,7 +96,7 @@ I have contributed to identifying and documenting several vulnerabilities. Here'
 
 ### 🚨 Exploit Development & PoC Contributions
 
-In addition to CVE contributions, I've been actively involved in exploit development and proof-of-concept (PoC) creation for various vulnerabilities. These efforts are aimed at demonstrating potential security risks and providing the cybersecurity community with tools for testing and mitigation.
+In addition to identifying and reporting vulnerabilities, I have actively participated in exploit development and the creation of proof-of-concept (PoC) examples for various vulnerabilities. These efforts are designed to showcase potential security threats and provide the cybersecurity community with resources for testing and mitigation
 
 | Vulnerability | Description | Link |
 |---------------|-------------|------|
