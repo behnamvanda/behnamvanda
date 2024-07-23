@@ -9,9 +9,7 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
     <img src="https://img.shields.io/github/followers/behnamvanda?style=social" alt="GitHub followers" />
 </a>
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://behnamabasivanda.com" target="_blank">
-        <img height="40" style="border: 0; height: 40px;" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" border="0" alt="Buy Me a Coffee at ko-fi.com" />
-    </a>
+        <a href="TTzrppJfR8bYM1Wf2pa7bY93Ke4SjzJhNK"><img src="https://img.shields.io/badge/donate-$10-orange.svg"></a>
 </div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/behnam-abbasi-vanda/" target="_blank">
