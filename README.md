@@ -8,9 +8,6 @@ Hi there! I'm Behnam Abbasi Vanda, a Senior Information Security Expert. I have 
 <a href="https://github.com/behnamvanda" target="_blank">
     <img src="https://img.shields.io/github/followers/behnamvanda?style=social" alt="GitHub followers" />
 </a>
-<div style="display: flex; justify-content: center; gap: 10px;">
-        <a href="TTzrppJfR8bYM1Wf2pa7bY93Ke4SjzJhNK"><img src="https://img.shields.io/badge/donate-$10-orange.svg"></a>
-</div>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/behnam-abbasi-vanda/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
