@@ -61,7 +61,7 @@ Below is a list of tools I've developed, which are designed to assist in various
 
 | Tool Name | Description | Link |
 |-----------|-------------|------|
-| **SubSearcher** | Sub Domain Finder. | [GitHub](https://github.com/behnamvanda/SubSearcher) |
+| **SubSearcher** | Mass Sub Domain Scanner. | [GitHub](https://github.com/behnamvanda/SubSearcher) |
 | **RCEScan** | Remote Code Execution Scanner. | [GitHub](https://github.com/behnamvanda/rce-scan) |
 
 ### 🏆 Hall Of Fame
