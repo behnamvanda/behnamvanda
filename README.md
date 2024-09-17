@@ -73,7 +73,7 @@ Here is a list of Hall of Fame acknowledgments recognizing my contributions to c
 | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) | [Oracle On-Line Presence  Security Contributors](https://www.oracle.com/security-alerts/cpujul2024.html) | 2024 |
 | ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2024 |
 | ![Sonicwall](https://img.shields.io/badge/-SonicWall-FF791A?style=flat&logo=sonicwall&logoColor=white) | [Sonicwall Hall of Fame](https://psirt.global.sonicwall.com/hall-of-fame) | 2024 |
-| ![Asus](https://img.shields.io/badge/Asus-FF791A?style=flat&logo=sonicwall&logoColor=white) | [Asus Hall of Fame](https://www.asus.com/content/asus-product-security-advisory/) | 2024(September) |
+| ![Asus](https://img.shields.io/badge/Asus-FF791A?style=flat&logo=sonicwall&logoColor=white) | [Asus Hall of Fame](https://www.asus.com/content/asus-product-security-advisory/) | 2024 (September) |
 
 
 ### 🚨 Vulnerability Discovery & Report
