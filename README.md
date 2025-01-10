@@ -70,6 +70,8 @@ Here is a list of Hall of Fame acknowledgments recognizing my contributions to c
 
 | Company | Hall of Fame | Year |
 |---------|--------------|------|
+| ![European Union](https://img.shields.io/static/v1?style=for-the-badge&message=European+Union&color=003399&logo=European+Union&logoColor=FFFFFF&label=) | [European Union HALL of Fame](https://www.cert.europa.eu/hall-of-fame) | 2025 |
+| ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2025 |
 | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) | [Oracle On-Line Presence  Security Contributors](https://www.oracle.com/security-alerts/cpujul2024.html) | 2024 |
 | ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2024 |
 | ![Sonicwall](https://img.shields.io/badge/-SonicWall-FF791A?style=flat&logo=sonicwall&logoColor=white) | [Sonicwall Hall of Fame](https://psirt.global.sonicwall.com/hall-of-fame) | 2024 |
