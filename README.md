@@ -71,7 +71,7 @@ Here is a list of Hall of Fame acknowledgments recognizing my contributions to c
 | Company | Hall of Fame | Year |
 |---------|--------------|------|
 | ![𝐍𝐀𝐒𝐀 𝐋𝐞𝐭𝐭𝐞𝐫 𝐨𝐟 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧](https://img.shields.io/static/v1?style=flat&message=NASA) | [𝐍𝐀𝐒𝐀 𝐋𝐞𝐭𝐭𝐞𝐫 𝐨𝐟 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧](https://nasa.gov) | 2025 |
-| ![World Health Organization](https://img.shields.io/static/v1?style=flat&message=WHO&color=003399&logo=European+Union&logoColor=FFFFFF&label=) | [European Union HALL of Fame](https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list) | 2025 |
+| ![World Health Organization](https://img.shields.io/static/v1?style=flat&message=WHO&color=003399&logo=European+Union&logoColor=FFFFFF&label=) | [WHO HALL of Fame](https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list) | 2025 |
 | ![European Union](https://img.shields.io/static/v1?style=flat&message=European+Union&color=003399&logo=European+Union&logoColor=FFFFFF&label=) | [European Union HALL of Fame](https://www.cert.europa.eu/hall-of-fame) | 2025 |
 | ![Siemens](https://img.shields.io/badge/-Siemens-blue?style=plastic&logo=siemens&logoColor=white) | [Siemens Hall of Thanks](https://www.siemens.com/global/en/products/services/cert/hall-of-thanks.html) | 2025 |
 | ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) | [Oracle On-Line Presence  Security Contributors](https://www.oracle.com/security-alerts/cpujul2024.html) | 2024 |
