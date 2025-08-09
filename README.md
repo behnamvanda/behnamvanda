@@ -62,7 +62,7 @@ Below is a list of tools I've developed, which are designed to assist in various
 | Tool Name | Description | Link |
 |-----------|-------------|------|
 | **SubSearcher** | Mass Sub Domain Scanner. | [GitHub](https://github.com/behnamvanda/SubSearcher) |
-| **RCEScan** | Remote Code Execution Scanner. | [GitHub](https://github.com/behnamvanda/rce-scan) |
+| **CVE-2025-32463** | Sudo CVE-2025-32463 — PoC. | [GitHub](https://github.com/behnamvanda/CVE-2025-32463/) |
 
 ### 🏆 Hall Of Fame
 
