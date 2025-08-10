@@ -1,4 +1,4 @@
-# Behnam Abbasi Vanda: Security Enthusiast 👨‍💻🔐
+# Behnam Abbasi Vanda: Security Researcher 👨‍💻🔐
 
 ![](./behnamvanda-header.png)
 
