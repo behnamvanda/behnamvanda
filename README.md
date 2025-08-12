@@ -63,7 +63,7 @@ Below is a list of tools I've developed, which are designed to assist in various
 |-----------|-------------|------|
 | **SubSearcher** | Mass Sub Domain Scanner. | [GitHub](https://github.com/behnamvanda/SubSearcher) |
 | **CVE-2025-32463** | Sudo CVE-2025-32463 — PoC. | [GitHub](https://github.com/behnamvanda/CVE-2025-32463/) |
-| **CVE-2025-53770** | CVE-2025-53770-Checker — PoC. | (https://github.com/behnamvanda/CVE-2025-53770-Checker/)) |
+| **CVE-2025-53770** | CVE-2025-53770-Checker — PoC. | (https://github.com/behnamvanda/CVE-2025-53770-Checker/) |
 
 ### 🏆 Hall Of Fame
 
